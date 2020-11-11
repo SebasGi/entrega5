@@ -1,0 +1,80 @@
+.conte{
+position: absolute;
+font-family: Arial;
+background-color: #F7F8A8;
+width: 1300px;
+height: 590px;
+border-radius: 15px;
+}
+.na{
+	position: absolute;
+	background-color: #B0F8A8; 
+	top: 60px;
+	left: 25px;
+	width: 300px;
+	height: 400px;
+	background-image: url(cazador.gif);
+}
+.dn{
+	position: absolute;
+background-color: #B0F8A8; 
+top:480px;
+left: 25px;
+width: 300px;
+height: 100px;
+border-radius: 25px;
+}
+.na2{
+	position: absolute;
+	background-color: #B0F8A8; 
+	top: 60px;
+	left: 345px;
+	width: 300px;
+	height: 400px;
+	background-image: url(oso.gif);
+}
+.dn2{
+	position: absolute;
+background-color: #B0F8A8; 
+top:480px;
+left: 345px;
+width: 300px;
+height: 100px;
+border-radius: 25px;
+}
+.na3{
+	position: absolute;
+	background-color: #B0F8A8; 
+	top: 60px;
+	left: 665px;
+	width: 300px;
+	height: 450px;
+	background-image: url(niña.gif);
+}
+.dn3{
+	position: absolute;
+background-color: #B0F8A8; 
+top:480px;
+left: 665px;
+width: 300px;
+height: 100px;
+border-radius: 25px;
+}
+.na4{
+	position: absolute;
+	background-color: #B0F8A8; 
+	top: 60px;
+	left: 980px;
+	width: 300px;
+	height: 400px;
+	background-image: url(liebre.gif);
+}
+.dn4{
+	position: absolute;
+background-color: #B0F8A8; 
+top:480px;
+left: 980px;
+width: 300px;
+height: 100px;
+border-radius: 25px;
+}

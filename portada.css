@@ -1,0 +1,34 @@
+body
+{
+	background-color: #000000;
+	font-family: Arial; 
+	color: #FCFCFC;
+}
+.cp
+{
+	width: 800px;
+	margin: auto;
+}
+#check
+{
+	display: none;
+}
+.cp
+{
+	background-color: #000000;
+	padding: 5px;
+}
+.cp div
+{
+	height: 0;
+	overflow: hidden;
+	-webkit-transition: all 1.5s linear;
+}
+.cp label:active
+{
+	background-color: green;
+}
+.cp #check:checked ~ div
+{
+	height: 600px;
+}
